@@ -1,0 +1,14 @@
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\bin\Debug\net7.0\PruebaSR.exe
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\bin\Debug\net7.0\PruebaSR.deps.json
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\bin\Debug\net7.0\PruebaSR.runtimeconfig.json
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\bin\Debug\net7.0\PruebaSR.dll
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\bin\Debug\net7.0\PruebaSR.pdb
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\PruebaSR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\PruebaSR.AssemblyInfoInputs.cache
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\PruebaSR.AssemblyInfo.cs
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\PruebaSR.csproj.CoreCompileInputs.cache
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\PruebaSR.dll
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\refint\PruebaSR.dll
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\PruebaSR.pdb
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\PruebaSR.genruntimeconfig.cache
+C:\Users\34615\OneDrive\Proyectos\PruebaSR\obj\Debug\net7.0\ref\PruebaSR.dll
