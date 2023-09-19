@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreBoardClassLibrary", "ScoreBoardClassLibrary\ScoreBoardClassLibrary.csproj", "{9FBD9A9D-0E13-4A6E-A42A-E10F1BF8C4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScoreCoardLicraryTest", "ScoreCoardLicraryTest\ScoreCoardLicraryTest.csproj", "{91610735-65DC-47AB-95DF-8CABBA879045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBD9A9D-0E13-4A6E-A42A-E10F1BF8C4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBD9A9D-0E13-4A6E-A42A-E10F1BF8C4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBD9A9D-0E13-4A6E-A42A-E10F1BF8C4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBD9A9D-0E13-4A6E-A42A-E10F1BF8C4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91610735-65DC-47AB-95DF-8CABBA879045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91610735-65DC-47AB-95DF-8CABBA879045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91610735-65DC-47AB-95DF-8CABBA879045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91610735-65DC-47AB-95DF-8CABBA879045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
