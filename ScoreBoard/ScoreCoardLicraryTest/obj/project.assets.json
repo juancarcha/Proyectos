@@ -594,6 +594,16 @@
             "related": ".xml"
           }
         }
+      },
+      "ScoreBoardClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ScoreBoardClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScoreBoardClassLibrary.dll": {}
+        }
       }
     }
   },
@@ -2286,6 +2296,11 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "ScoreBoardClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ScoreBoardClassLibrary/ScoreBoardClassLibrary.csproj",
+      "msbuildProject": "../ScoreBoardClassLibrary/ScoreBoardClassLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2293,6 +2308,7 @@
       "MSTest.TestAdapter >= 2.2.10",
       "MSTest.TestFramework >= 2.2.10",
       "Microsoft.NET.Test.Sdk >= 17.7.1",
+      "ScoreBoardClassLibrary >= 1.0.0",
       "coverlet.collector >= 3.2.0"
     ]
   },
@@ -2320,7 +2336,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj": {
+              "projectPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

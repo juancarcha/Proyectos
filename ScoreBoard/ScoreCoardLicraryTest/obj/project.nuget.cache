@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V0sGf3XwTZNlCUuNYBpgXHE0vaGasI/e4EDiuB2FcYK4EGLL2U+VJ3f56bjK6waecHX91s9igVMc63chOUvmIQ==",
+  "dgSpecHash": "HhsmdEZkS678s8PfsdZFv1Irf5uPY2Ewfms0ZbiNNR5+nTMaVLEM2ZfRu3X5oVdmy6MYNzNS2dwz3KXyI09jlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj",
+  "projectFilePath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\34615\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\34615\\.nuget\\packages\\microsoft.codecoverage\\17.7.1\\microsoft.codecoverage.17.7.1.nupkg.sha512",

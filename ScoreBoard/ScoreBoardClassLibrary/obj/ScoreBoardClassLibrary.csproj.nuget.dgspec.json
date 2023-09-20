@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj": {}
+    "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj": {
+    "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj",
+        "projectUniqueName": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj",
         "projectName": "ScoreBoardClassLibrary",
-        "projectPath": "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj",
+        "projectPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj",
         "packagesPath": "C:\\Users\\34615\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\obj\\",
+        "outputPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\34615\\AppData\\Roaming\\NuGet\\NuGet.Config"

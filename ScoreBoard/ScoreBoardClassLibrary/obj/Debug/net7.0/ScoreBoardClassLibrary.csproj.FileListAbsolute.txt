@@ -1,0 +1,11 @@
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\bin\Debug\net7.0\ScoreBoardClassLibrary.deps.json
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\bin\Debug\net7.0\ScoreBoardClassLibrary.dll
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\bin\Debug\net7.0\ScoreBoardClassLibrary.pdb
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\ScoreBoardClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\ScoreBoardClassLibrary.AssemblyInfoInputs.cache
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\ScoreBoardClassLibrary.AssemblyInfo.cs
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\ScoreBoardClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\ScoreBoardClassLibrary.dll
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\refint\ScoreBoardClassLibrary.dll
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\ScoreBoardClassLibrary.pdb
+C:\Users\34615\OneDrive\Proyectos\ScoreBoard\ScoreBoardClassLibrary\obj\Debug\net7.0\ref\ScoreBoardClassLibrary.dll

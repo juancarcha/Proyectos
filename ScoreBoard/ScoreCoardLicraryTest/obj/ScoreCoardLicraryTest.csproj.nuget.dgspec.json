@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj": {}
+    "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj": {
+    "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj",
-        "projectName": "ScoreCoardLicraryTest",
-        "projectPath": "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj",
+        "projectUniqueName": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj",
+        "projectName": "ScoreBoardClassLibrary",
+        "projectPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj",
         "packagesPath": "C:\\Users\\34615\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\obj\\",
+        "outputPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\34615\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,6 +26,63 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj",
+        "projectName": "ScoreCoardLicraryTest",
+        "projectPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\ScoreCoardLicraryTest.csproj",
+        "packagesPath": "C:\\Users\\34615\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreCoardLicraryTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\34615\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj": {
+                "projectPath": "c:\\Users\\34615\\OneDrive\\Proyectos\\ScoreBoard\\ScoreBoardClassLibrary\\ScoreBoardClassLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

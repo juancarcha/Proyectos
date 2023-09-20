@@ -1,44 +1,43 @@
+using ScoreBoard;
+
 namespace ScoreCoardLicraryTest;
 
 [TestClass]
 public class UnitTest1
 {
+    private const string homeTeam = "Spain";
+    private const string awayTeam = "Malta";
+
     [TestMethod]
     public void Test_StartGame()
     {
-        var scoreBoard = new ScoreBoardClassLibrary();
-        string homeTeam = "Spain";
-        string awayTeam = "Malta";
+        var scoreBoard = new MatchScoreBoard();
 
         scoreBoard.StartGame (homeTeam, awayTeam);
 
-        Assert.AreEqual(1, scoreBoard.GetSumary().Count);
+        Assert.AreEqual(1, scoreBoard.GetSummary().Count);
     }
 
     [TestMethod]
     public void Test_FinishGame()
     {
-        var scoreBoard = new ScoreBoardClassLibrary();
-        string homeTeam = "Spain";
-        string awayTeam = "Malta";
+        var scoreBoard = new MatchScoreBoard();
 
         scoreBoard.StartGame (homeTeam, awayTeam);
         scoreBoard.FinishGame (homeTeam, awayTeam);
 
-        Assert.AreEqual(1, scoreBoard.GetSumary().Count);
+        Assert.AreEqual(0, scoreBoard.GetSummary().Count);
     }
 
     [TestMethod]
     public void Test_UpdateScore()
     {
-        var scoreBoard = new ScoreBoardClassLibrary();
-        string homeTeam = "Spain";
-        string awayTeam = "Malta";
+        var scoreBoard = new MatchScoreBoard();
 
         scoreBoard.StartGame (homeTeam, awayTeam);
-        scoreBoard.UpdateScore (12, 1, homeTeam, awayTeam);
+        scoreBoard.UpdateScoreBoard (12, 1, homeTeam, awayTeam);
 
-        var sumary = scoreBoard.GetSumary();
+        var sumary = scoreBoard.GetSummary();
 
         Assert.AreEqual("Spain 12 - Malta 1", sumary[0]);
     }
@@ -46,14 +45,14 @@ public class UnitTest1
     [TestMethod]
     public void Test_GetSumary()
     {
-        var scoreBoard = new ScoreBoardClassLibrary();
+        var scoreBoard = new MatchScoreBoard();
 
-        scoreBoard.StartGame ("Spain", "Malta");
+        scoreBoard.StartGame (homeTeam, awayTeam);
         scoreBoard.StartGame ("Sevilla", "Betis");
         scoreBoard.StartGame ("Athletic", "Real Sociedad");
         scoreBoard.StartGame ("Deportivo", "Celta");
 
-        var sumary = scoreBoard.GetSumary();
+        var sumary = scoreBoard.GetSummary();
 
         Assert.AreEqual("Deportivo 0 - Celta 0", sumary[0]);
         Assert.AreEqual("Athletic 0 - Real Sociedad 0", sumary[1]);
