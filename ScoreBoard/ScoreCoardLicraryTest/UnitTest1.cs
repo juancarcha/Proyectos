@@ -51,13 +51,16 @@ public class UnitTest1
         scoreBoard.StartGame ("Sevilla", "Betis");
         scoreBoard.StartGame ("Athletic", "Real Sociedad");
         scoreBoard.StartGame ("Deportivo", "Celta");
+        scoreBoard.UpdateScoreBoard (12, 1, homeTeam, awayTeam);
+        scoreBoard.UpdateScoreBoard (5, 1, "Sevilla", "Betis");
 
         var sumary = scoreBoard.GetSummary();
 
-        Assert.AreEqual("Deportivo 0 - Celta 0", sumary[0]);
-        Assert.AreEqual("Athletic 0 - Real Sociedad 0", sumary[1]);
-        Assert.AreEqual("Sevilla 0 - Betis 0", sumary[2]);
-        Assert.AreEqual("Spain 0 - Malta 0", sumary[3]);
+        Assert.AreEqual("Spain 12 - Malta 1", sumary[0]);
+        Assert.AreEqual("Sevilla 5 - Betis 1", sumary[1]);
+        Assert.AreEqual("Deportivo 0 - Celta 0", sumary[2]);
+        Assert.AreEqual("Athletic 0 - Real Sociedad 0", sumary[3]);
+        
     }
 
 
